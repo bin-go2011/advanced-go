@@ -1,1 +1,1 @@
-void SayHello(char* s);
+void SayHello(/* const */ char* s);
